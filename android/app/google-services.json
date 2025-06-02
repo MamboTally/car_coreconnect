@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "267148072799",
+    "project_id": "vehicle-58fbd",
+    "storage_bucket": "vehicle-58fbd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267148072799:android:f33c9e873dacdd4f34c8ea",
+        "android_client_info": {
+          "package_name": "com.example.car_coreconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRULeytGxADUsVL1tjYMOeKLhsaDxrheM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
